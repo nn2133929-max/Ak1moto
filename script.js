@@ -1,1 +1,1 @@
-console.log("AK1MOTO JS loaded");
+// placeholder js
