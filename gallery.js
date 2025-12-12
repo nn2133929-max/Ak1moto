@@ -1,8 +1,1 @@
-document.addEventListener('DOMContentLoaded', function(){
-  const g = document.getElementById('galleryGrid');
-  GALLERY.forEach(src=>{
-    const img = document.createElement('img');
-    img.src = src;
-    g.appendChild(img);
-  });
-});
+document.addEventListener('DOMContentLoaded', function(){ const g=document.getElementById('galleryGrid'); GALLERY.forEach(src=>{ const img=document.createElement('img'); img.src=src; g.appendChild(img); }); });
