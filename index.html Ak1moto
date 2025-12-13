@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AK1MOTO – Motorcycle Parts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>AK1MOTO</h1>
+  <p>Motorcycle Parts & Accessories</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="categories.html">Categories</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="hero">
+  <h2>Quality Motorcycle Parts</h2>
+  <p>LED Lights, Indicators, Chains, Brakes & More</p>
+</section>
+
+<section class="products">
+  <div class="card">
+    <img src="led.jpg" alt="LED Lights">
+    <h3>LED Lights</h3>
+  </div>
+
+  <div class="card">
+    <img src="indicator.jpg" alt="Indicator">
+    <h3>Indicators</h3>
+  </div>
+
+  <div class="card">
+    <img src="chain.jpg" alt="Chain">
+    <h3>Chains</h3>
+  </div>
+
+  <div class="card">
+    <img src="brake.jpg" alt="Brake">
+    <h3>Brakes</h3>
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 AK1MOTO. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
